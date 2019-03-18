@@ -4,3 +4,7 @@
     background-color:#EDEDED;
     list-style:none;
 }
+
+#menu ul li {
+   display: inline;
+ }
