@@ -1,10 +1,10 @@
+#menu ul li {
+   display: inline;
+ }
+ 
 #menu ul {
     padding:10px;
     margin:0px;
     background-color:#EDEDED;
     list-style:none;
 }
-
-#menu ul li {
-   display: inline;
- }
