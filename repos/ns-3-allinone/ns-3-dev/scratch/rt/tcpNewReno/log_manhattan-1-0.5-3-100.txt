@@ -1,0 +1,1680 @@
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.219s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   178
+  Tx Bytes:   103596
+  Offered Load: 0.461667 Mbps
+  Rx Packets:   167
+  Rx Bytes:   97128
+  Throughput: 0.432822 Mbps
+  Mean delay:   0.00307244
+  Mean jitter:   4.03672e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.182s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   38
+  Tx Bytes:   21276
+  Offered Load: 0.122331 Mbps
+  Rx Packets:   30
+  Rx Bytes:   16572
+  Throughput: 0.0959749 Mbps
+  Mean delay:   0.00506495
+  Mean jitter:   3.24138e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.171s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   283
+  Tx Bytes:   165336
+  Offered Load: 1.23209 Mbps
+  Rx Packets:   264
+  Rx Bytes:   154164
+  Throughput: 1.15099 Mbps
+  Mean delay:   0.00107032
+  Mean jitter:   3.49956e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.234s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   228
+  Tx Bytes:   132996
+  Offered Load: 0.591263 Mbps
+  Rx Packets:   206
+  Rx Bytes:   120060
+  Throughput: 0.534945 Mbps
+  Mean delay:   0.00207087
+  Mean jitter:   3.6384e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.193s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   261
+  Tx Bytes:   152400
+  Offered Load: 0.68324 Mbps
+  Rx Packets:   246
+  Rx Bytes:   143580
+  Throughput: 0.643682 Mbps
+  Mean delay:   0.00807313
+  Mean jitter:   4.05745e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.165s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   231
+  Tx Bytes:   134760
+  Offered Load: 0.871617 Mbps
+  Rx Packets:   218
+  Rx Bytes:   127116
+  Throughput: 0.82619 Mbps
+  Mean delay:   0.00306475
+  Mean jitter:   2.72778e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.167s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   185
+  Tx Bytes:   107712
+  Offered Load: 0.482579 Mbps
+  Rx Packets:   174
+  Rx Bytes:   101244
+  Throughput: 0.45359 Mbps
+  Mean delay:   0.0100728
+  Mean jitter:   4.06363e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.154s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   94
+  Tx Bytes:   54204
+  Offered Load: 0.241583 Mbps
+  Rx Packets:   84
+  Rx Bytes:   48324
+  Throughput: 0.217315 Mbps
+  Mean delay:   0.00807097
+  Mean jitter:   4.09272e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.173s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   388
+  Tx Bytes:   227076
+  Offered Load: 1.94875 Mbps
+  Rx Packets:   362
+  Rx Bytes:   211788
+  Throughput: 1.82147 Mbps
+  Mean delay:   0.00107298
+  Mean jitter:   3.93095e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.187s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0100705 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.0431807 Mbps
+  Mean delay:   0.0100045
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.243s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   274
+  Tx Bytes:   160044
+  Offered Load: 0.772907 Mbps
+  Rx Packets:   254
+  Rx Bytes:   148284
+  Throughput: 0.717852 Mbps
+  Mean delay:   0.00207365
+  Mean jitter:   4.01151e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.165s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.200s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   553
+  Tx Bytes:   324096
+  Offered Load: 1.5964 Mbps
+  Rx Packets:   523
+  Rx Bytes:   306456
+  Throughput: 1.51138 Mbps
+  Mean delay:   0.00107226
+  Mean jitter:   3.92128e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.273s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   38
+  Tx Bytes:   21276
+  Offered Load: 0.122331 Mbps
+  Rx Packets:   30
+  Rx Bytes:   16572
+  Throughput: 0.0959749 Mbps
+  Mean delay:   0.00506495
+  Mean jitter:   3.24138e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.239s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   65
+  Tx Bytes:   37152
+  Offered Load: 0.218772 Mbps
+  Rx Packets:   56
+  Rx Bytes:   31860
+  Throughput: 0.19013 Mbps
+  Mean delay:   0.00905924
+  Mean jitter:   2.65309e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.212s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   226
+  Tx Bytes:   131820
+  Offered Load: 0.589292 Mbps
+  Rx Packets:   212
+  Rx Bytes:   123588
+  Throughput: 0.552478 Mbps
+  Mean delay:   0.00907088
+  Mean jitter:   3.91583e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.197s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.196603 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.1627 Mbps
+  Mean delay:   0.00605618
+  Mean jitter:   2.2e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.223s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   100
+  Tx Bytes:   57732
+  Offered Load: 0.259078 Mbps
+  Rx Packets:   91
+  Rx Bytes:   52440
+  Throughput: 0.235318 Mbps
+  Mean delay:   0.010065
+  Mean jitter:   3.03876e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.177s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   223
+  Tx Bytes:   130056
+  Offered Load: 0.580818 Mbps
+  Rx Packets:   209
+  Rx Bytes:   121824
+  Throughput: 0.544027 Mbps
+  Mean delay:   0.00807099
+  Mean jitter:   3.81285e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.176s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.159856 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.132677 Mbps
+  Mean delay:   0.00905189
+  Mean jitter:   1.61e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.188s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   147
+  Tx Bytes:   85368
+  Offered Load: 0.381137 Mbps
+  Rx Packets:   140
+  Rx Bytes:   81252
+  Throughput: 0.362742 Mbps
+  Mean delay:   0.00607426
+  Mean jitter:   4.27568e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.144s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   47
+  Tx Bytes:   26568
+  Offered Load: 0.21824 Mbps
+  Rx Packets:   39
+  Rx Bytes:   21864
+  Throughput: 0.181841 Mbps
+  Mean delay:   0.00605722
+  Mean jitter:   2.22527e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.163s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   65
+  Tx Bytes:   37152
+  Offered Load: 0.218772 Mbps
+  Rx Packets:   56
+  Rx Bytes:   31860
+  Throughput: 0.19013 Mbps
+  Mean delay:   0.00905924
+  Mean jitter:   2.65309e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.208s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.105944 Mbps
+  Rx Packets:   32
+  Rx Bytes:   17748
+  Throughput: 0.0844454 Mbps
+  Mean delay:   0.00706236
+  Mean jitter:   3.18452e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.185s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   195
+  Tx Bytes:   113592
+  Offered Load: 0.505167 Mbps
+  Rx Packets:   180
+  Rx Bytes:   104772
+  Throughput: 0.466464 Mbps
+  Mean delay:   0.00106806
+  Mean jitter:   3.35938e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.181s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.159856 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.132677 Mbps
+  Mean delay:   0.00905189
+  Mean jitter:   1.61e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.161s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   223
+  Tx Bytes:   130056
+  Offered Load: 0.580818 Mbps
+  Rx Packets:   209
+  Rx Bytes:   121824
+  Throughput: 0.544027 Mbps
+  Mean delay:   0.00807099
+  Mean jitter:   3.81285e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.177s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.010231 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.215517 Mbps
+  Mean delay:   0.00200448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.185s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   100
+  Tx Bytes:   57732
+  Offered Load: 0.257071 Mbps
+  Rx Packets:   92
+  Rx Bytes:   53028
+  Throughput: 0.238509 Mbps
+  Mean delay:   0.00907557
+  Mean jitter:   4.50954e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.152s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   223
+  Tx Bytes:   130056
+  Offered Load: 0.580818 Mbps
+  Rx Packets:   209
+  Rx Bytes:   121824
+  Throughput: 0.544027 Mbps
+  Mean delay:   0.00807099
+  Mean jitter:   3.81285e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.192s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   629
+  Tx Bytes:   368784
+  Offered Load: 1.63984 Mbps
+  Rx Packets:   593
+  Rx Bytes:   347616
+  Throughput: 1.54913 Mbps
+  Mean delay:   0.00207455
+  Mean jitter:   4.13928e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.179s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   258
+  Tx Bytes:   150636
+  Offered Load: 0.675367 Mbps
+  Rx Packets:   242
+  Rx Bytes:   141228
+  Throughput: 0.633171 Mbps
+  Mean delay:   0.00807278
+  Mean jitter:   4.00728e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.218s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   258
+  Tx Bytes:   150636
+  Offered Load: 0.675367 Mbps
+  Rx Packets:   242
+  Rx Bytes:   141228
+  Throughput: 0.633171 Mbps
+  Mean delay:   0.00807278
+  Mean jitter:   4.00728e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.171s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   71
+  Tx Bytes:   40680
+  Offered Load: 0.253802 Mbps
+  Rx Packets:   65
+  Rx Bytes:   37152
+  Throughput: 1.0917 Mbps
+  Mean delay:   0.00507284
+  Mean jitter:   4.12775e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.180s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   65
+  Tx Bytes:   37152
+  Offered Load: 0.218772 Mbps
+  Rx Packets:   56
+  Rx Bytes:   31860
+  Throughput: 0.19013 Mbps
+  Mean delay:   0.00905924
+  Mean jitter:   2.65309e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.198s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   216
+  Tx Bytes:   125940
+  Offered Load: 0.559996 Mbps
+  Rx Packets:   198
+  Rx Bytes:   115356
+  Throughput: 0.514066 Mbps
+  Mean delay:   0.0020704
+  Mean jitter:   3.6424e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.188s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.159856 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.132677 Mbps
+  Mean delay:   0.00905189
+  Mean jitter:   1.61e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.235s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   199
+  Tx Bytes:   115944
+  Offered Load: 0.51596 Mbps
+  Rx Packets:   183
+  Rx Bytes:   106536
+  Throughput: 0.476215 Mbps
+  Mean delay:   0.00407024
+  Mean jitter:   3.60475e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.193s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   94
+  Tx Bytes:   54204
+  Offered Load: 0.241583 Mbps
+  Rx Packets:   84
+  Rx Bytes:   48324
+  Throughput: 0.217315 Mbps
+  Mean delay:   0.00807097
+  Mean jitter:   4.09272e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.226s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   125
+  Tx Bytes:   72432
+  Offered Load: 0.323442 Mbps
+  Rx Packets:   116
+  Rx Bytes:   67140
+  Throughput: 0.299795 Mbps
+  Mean delay:   0.00607092
+  Mean jitter:   4.0199e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.148s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   186
+  Tx Bytes:   108300
+  Offered Load: 0.481673 Mbps
+  Rx Packets:   170
+  Rx Bytes:   98892
+  Throughput: 0.43982 Mbps
+  Mean delay:   0.00106755
+  Mean jitter:   3.15512e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.211s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   147
+  Tx Bytes:   85368
+  Offered Load: 0.381137 Mbps
+  Rx Packets:   140
+  Rx Bytes:   81252
+  Throughput: 0.362742 Mbps
+  Mean delay:   0.00607426
+  Mean jitter:   4.27568e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.166s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0102106 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.143785 Mbps
+  Mean delay:   0.00300448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.181s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   31
+  Tx Bytes:   17160
+  Offered Load: 0.111331 Mbps
+  Rx Packets:   25
+  Rx Bytes:   13632
+  Throughput: 0.0884359 Mbps
+  Mean delay:   0.00106472
+  Mean jitter:   3.13e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.202s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   195
+  Tx Bytes:   113592
+  Offered Load: 0.505167 Mbps
+  Rx Packets:   180
+  Rx Bytes:   104772
+  Throughput: 0.466464 Mbps
+  Mean delay:   0.00106806
+  Mean jitter:   3.35938e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.213s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   178
+  Tx Bytes:   103596
+  Offered Load: 0.461667 Mbps
+  Rx Packets:   167
+  Rx Bytes:   97128
+  Throughput: 0.432822 Mbps
+  Mean delay:   0.00307244
+  Mean jitter:   4.03672e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.167s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   91
+  Tx Bytes:   52440
+  Offered Load: 0.234246 Mbps
+  Rx Packets:   84
+  Rx Bytes:   48324
+  Throughput: 0.215844 Mbps
+  Mean delay:   0.00706984
+  Mean jitter:   3.58092e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.195s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   216
+  Tx Bytes:   125940
+  Offered Load: 0.559996 Mbps
+  Rx Packets:   198
+  Rx Bytes:   115356
+  Throughput: 0.514066 Mbps
+  Mean delay:   0.0020704
+  Mean jitter:   3.6424e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.206s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   90
+  Tx Bytes:   51852
+  Offered Load: 0.390859 Mbps
+  Rx Packets:   80
+  Rx Bytes:   45972
+  Throughput: 0.351171 Mbps
+  Mean delay:   0.00706508
+  Mean jitter:   3.10339e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.190s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.156s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.159856 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.132677 Mbps
+  Mean delay:   0.00905189
+  Mean jitter:   1.61e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.180s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   553
+  Tx Bytes:   324096
+  Offered Load: 1.5964 Mbps
+  Rx Packets:   523
+  Rx Bytes:   306456
+  Throughput: 1.51138 Mbps
+  Mean delay:   0.00107226
+  Mean jitter:   3.92128e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.198s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   100
+  Tx Bytes:   57732
+  Offered Load: 0.259078 Mbps
+  Rx Packets:   91
+  Rx Bytes:   52440
+  Throughput: 0.235318 Mbps
+  Mean delay:   0.010065
+  Mean jitter:   3.03876e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.177s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   32
+  Tx Bytes:   17748
+  Offered Load: 0.0974446 Mbps
+  Rx Packets:   25
+  Rx Bytes:   13632
+  Throughput: 0.0756774 Mbps
+  Mean delay:   0.00805906
+  Mean jitter:   3.13e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.259s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   38
+  Tx Bytes:   21276
+  Offered Load: 0.122331 Mbps
+  Rx Packets:   30
+  Rx Bytes:   16572
+  Throughput: 0.0959749 Mbps
+  Mean delay:   0.00506495
+  Mean jitter:   3.24138e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.159s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   52
+  Tx Bytes:   29508
+  Offered Load: 0.174645 Mbps
+  Rx Packets:   44
+  Rx Bytes:   24804
+  Throughput: 0.146799 Mbps
+  Mean delay:   0.00306574
+  Mean jitter:   3.61303e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.159s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0101904 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.107879 Mbps
+  Mean delay:   0.00400448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.187s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   223
+  Tx Bytes:   130056
+  Offered Load: 0.580818 Mbps
+  Rx Packets:   209
+  Rx Bytes:   121824
+  Throughput: 0.544027 Mbps
+  Mean delay:   0.00807099
+  Mean jitter:   3.81285e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.192s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   34
+  Tx Bytes:   18924
+  Offered Load: 0.0849974 Mbps
+  Rx Packets:   26
+  Rx Bytes:   14220
+  Throughput: 0.064595 Mbps
+  Mean delay:   0.010055
+  Mean jitter:   2.2496e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.248s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   39
+  Tx Bytes:   21864
+  Offered Load: 0.171243 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.143605 Mbps
+  Mean delay:   0.0100605
+  Mean jitter:   3.085e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.189s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   90
+  Tx Bytes:   51852
+  Offered Load: 0.390859 Mbps
+  Rx Packets:   80
+  Rx Bytes:   45972
+  Throughput: 0.351171 Mbps
+  Mean delay:   0.00706508
+  Mean jitter:   3.10339e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.169s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   31
+  Tx Bytes:   17160
+  Offered Load: 0.111331 Mbps
+  Rx Packets:   25
+  Rx Bytes:   13632
+  Throughput: 0.0884359 Mbps
+  Mean delay:   0.00106472
+  Mean jitter:   3.13e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.355s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.177s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   52
+  Tx Bytes:   29508
+  Offered Load: 0.174645 Mbps
+  Rx Packets:   44
+  Rx Bytes:   24804
+  Throughput: 0.146799 Mbps
+  Mean delay:   0.00306574
+  Mean jitter:   3.61303e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.191s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   47
+  Tx Bytes:   26568
+  Offered Load: 0.135432 Mbps
+  Rx Packets:   39
+  Rx Bytes:   21864
+  Throughput: 0.112025 Mbps
+  Mean delay:   0.00405601
+  Mean jitter:   2.34948e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.225s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   52
+  Tx Bytes:   29508
+  Offered Load: 0.174645 Mbps
+  Rx Packets:   44
+  Rx Bytes:   24804
+  Throughput: 0.146799 Mbps
+  Mean delay:   0.00306574
+  Mean jitter:   3.61303e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.183s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   186
+  Tx Bytes:   108300
+  Offered Load: 0.481673 Mbps
+  Rx Packets:   170
+  Rx Bytes:   98892
+  Throughput: 0.43982 Mbps
+  Mean delay:   0.00106755
+  Mean jitter:   3.15512e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.203s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.218s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   195
+  Tx Bytes:   113592
+  Offered Load: 0.505167 Mbps
+  Rx Packets:   180
+  Rx Bytes:   104772
+  Throughput: 0.466464 Mbps
+  Mean delay:   0.00106806
+  Mean jitter:   3.35938e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.176s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0101904 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.107879 Mbps
+  Mean delay:   0.00400448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.218s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   147
+  Tx Bytes:   85368
+  Offered Load: 0.381137 Mbps
+  Rx Packets:   140
+  Rx Bytes:   81252
+  Throughput: 0.362742 Mbps
+  Mean delay:   0.00607426
+  Mean jitter:   4.27568e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.183s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   28
+  Tx Bytes:   15396
+  Offered Load: 0.0898359 Mbps
+  Rx Packets:   22
+  Rx Bytes:   11868
+  Throughput: 0.0697593 Mbps
+  Mean delay:   0.00505639
+  Mean jitter:   2.45334e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.160s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   213
+  Tx Bytes:   124176
+  Offered Load: 0.553954 Mbps
+  Rx Packets:   196
+  Rx Bytes:   114180
+  Throughput: 0.513372 Mbps
+  Mean delay:   0.00706967
+  Mean jitter:   3.63069e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.193s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   283
+  Tx Bytes:   165336
+  Offered Load: 1.23209 Mbps
+  Rx Packets:   264
+  Rx Bytes:   154164
+  Throughput: 1.15099 Mbps
+  Mean delay:   0.00107032
+  Mean jitter:   3.49956e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.190s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   88
+  Tx Bytes:   50676
+  Offered Load: 0.226122 Mbps
+  Rx Packets:   81
+  Rx Bytes:   46560
+  Throughput: 0.207745 Mbps
+  Mean delay:   0.00507068
+  Mean jitter:   3.7726e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.180s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   90
+  Tx Bytes:   51852
+  Offered Load: 0.390859 Mbps
+  Rx Packets:   80
+  Rx Bytes:   45972
+  Throughput: 0.351171 Mbps
+  Mean delay:   0.00706508
+  Mean jitter:   3.10339e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.173s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.160s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   348
+  Tx Bytes:   203556
+  Offered Load: 1.65037 Mbps
+  Rx Packets:   325
+  Rx Bytes:   190032
+  Throughput: 1.54701 Mbps
+  Mean delay:   0.002073
+  Mean jitter:   3.98888e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.204s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   267
+  Tx Bytes:   155928
+  Offered Load: 0.811813 Mbps
+  Rx Packets:   248
+  Rx Bytes:   144756
+  Throughput: 0.757597 Mbps
+  Mean delay:   0.00407169
+  Mean jitter:   3.70403e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.197s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.159856 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.132677 Mbps
+  Mean delay:   0.00905189
+  Mean jitter:   1.61e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.192s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   5
+  Tx Bytes:   1872
+  Offered Load: 0.0146815 Mbps
+  Rx Packets:   3
+  Rx Bytes:   696
+  Throughput: 0.00551259 Mbps
+  Mean delay:   0.00501872
+  Mean jitter:   2.16005e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.187s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   52
+  Tx Bytes:   29508
+  Offered Load: 0.174645 Mbps
+  Rx Packets:   44
+  Rx Bytes:   24804
+  Throughput: 0.146799 Mbps
+  Mean delay:   0.00306574
+  Mean jitter:   3.61303e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.169s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   5
+  Tx Bytes:   1872
+  Offered Load: 0.0146241 Mbps
+  Rx Packets:   3
+  Rx Bytes:   696
+  Throughput: 0.00550169 Mbps
+  Mean delay:   0.00601872
+  Mean jitter:   2.16005e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.203s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0101904 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.107879 Mbps
+  Mean delay:   0.00400448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.205s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   464
+  Tx Bytes:   271764
+  Offered Load: 1.23 Mbps
+  Rx Packets:   437
+  Rx Bytes:   255888
+  Throughput: 1.15815 Mbps
+  Mean delay:   0.00107214
+  Mean jitter:   3.85951e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.214s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   553
+  Tx Bytes:   324096
+  Offered Load: 1.5964 Mbps
+  Rx Packets:   523
+  Rx Bytes:   306456
+  Throughput: 1.51138 Mbps
+  Mean delay:   0.00107226
+  Mean jitter:   3.92128e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.225s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   7
+  Tx Bytes:   3048
+  Offered Load: 0.0194432 Mbps
+  Rx Packets:   4
+  Rx Bytes:   1284
+  Throughput: 0.00991407 Mbps
+  Mean delay:   0.00902584
+  Mean jitter:   1.44003e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.171s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   47
+  Tx Bytes:   26568
+  Offered Load: 0.21824 Mbps
+  Rx Packets:   39
+  Rx Bytes:   21864
+  Throughput: 0.181841 Mbps
+  Mean delay:   0.00605722
+  Mean jitter:   2.22527e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.141s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   226
+  Tx Bytes:   131820
+  Offered Load: 0.589292 Mbps
+  Rx Packets:   212
+  Rx Bytes:   123588
+  Throughput: 0.552478 Mbps
+  Mean delay:   0.00907088
+  Mean jitter:   3.91583e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.165s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   108
+  Tx Bytes:   62436
+  Offered Load: 0.296356 Mbps
+  Rx Packets:   98
+  Rx Bytes:   56556
+  Throughput: 0.269392 Mbps
+  Mean delay:   0.00306902
+  Mean jitter:   3.54936e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.235s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   45
+  Tx Bytes:   25392
+  Offered Load: 0.15096 Mbps
+  Rx Packets:   37
+  Rx Bytes:   20688
+  Throughput: 0.123545 Mbps
+  Mean delay:   0.00306159
+  Mean jitter:   3.00445e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.218s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   348
+  Tx Bytes:   203556
+  Offered Load: 1.65037 Mbps
+  Rx Packets:   325
+  Rx Bytes:   190032
+  Throughput: 1.54701 Mbps
+  Mean delay:   0.002073
+  Mean jitter:   3.98888e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.210s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   222
+  Tx Bytes:   129468
+  Offered Load: 0.584722 Mbps
+  Rx Packets:   208
+  Rx Bytes:   121236
+  Throughput: 0.54753 Mbps
+  Mean delay:   0.00907089
+  Mean jitter:   3.90029e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.158s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   184
+  Tx Bytes:   107124
+  Offered Load: 0.480122 Mbps
+  Rx Packets:   175
+  Rx Bytes:   101832
+  Throughput: 0.456393 Mbps
+  Mean delay:   0.0100716
+  Mean jitter:   3.98676e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.586s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0101904 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.107879 Mbps
+  Mean delay:   0.00400448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.191s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   102
+  Tx Bytes:   58908
+  Offered Load: 0.286852 Mbps
+  Rx Packets:   92
+  Rx Bytes:   53028
+  Throughput: 0.258213 Mbps
+  Mean delay:   0.00806582
+  Mean jitter:   2.9535e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.236s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   223
+  Tx Bytes:   130056
+  Offered Load: 0.580818 Mbps
+  Rx Packets:   209
+  Rx Bytes:   121824
+  Throughput: 0.544027 Mbps
+  Mean delay:   0.00807099
+  Mean jitter:   3.81285e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.190s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   141
+  Tx Bytes:   81840
+  Offered Load: 0.482654 Mbps
+  Rx Packets:   131
+  Rx Bytes:   75960
+  Throughput: 0.454004 Mbps
+  Mean delay:   0.0090711
+  Mean jitter:   3.88283e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.204s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   100
+  Tx Bytes:   57732
+  Offered Load: 0.259078 Mbps
+  Rx Packets:   91
+  Rx Bytes:   52440
+  Throughput: 0.235318 Mbps
+  Mean delay:   0.010065
+  Mean jitter:   3.03876e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.162s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0101904 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.107879 Mbps
+  Mean delay:   0.00400448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.169s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   32
+  Tx Bytes:   17748
+  Offered Load: 0.0974446 Mbps
+  Rx Packets:   25
+  Rx Bytes:   13632
+  Throughput: 0.0756774 Mbps
+  Mean delay:   0.00805906
+  Mean jitter:   3.13e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.198s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   226
+  Tx Bytes:   131820
+  Offered Load: 0.589238 Mbps
+  Rx Packets:   211
+  Rx Bytes:   123000
+  Throughput: 0.549799 Mbps
+  Mean delay:   0.00907185
+  Mean jitter:   3.93387e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.190s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   40
+  Tx Bytes:   22452
+  Offered Load: 0.196603 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.1627 Mbps
+  Mean delay:   0.00605618
+  Mean jitter:   2.2e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.208s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   100
+  Tx Bytes:   57732
+  Offered Load: 0.259078 Mbps
+  Rx Packets:   91
+  Rx Bytes:   52440
+  Throughput: 0.235318 Mbps
+  Mean delay:   0.010065
+  Mean jitter:   3.03876e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.166s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   118
+  Tx Bytes:   68316
+  Offered Load: 0.305037 Mbps
+  Rx Packets:   110
+  Rx Bytes:   63612
+  Throughput: 0.284019 Mbps
+  Mean delay:   0.00607178
+  Mean jitter:   3.89475e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.223s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   243
+  Tx Bytes:   141816
+  Offered Load: 0.665899 Mbps
+  Rx Packets:   229
+  Rx Bytes:   133584
+  Throughput: 0.62723 Mbps
+  Mean delay:   0.00807118
+  Mean jitter:   3.87116e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.261s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   38
+  Tx Bytes:   21276
+  Offered Load: 0.107905 Mbps
+  Rx Packets:   31
+  Rx Bytes:   17160
+  Throughput: 0.234474 Mbps
+  Mean delay:   0.00405676
+  Mean jitter:   2.66134e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.177s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   117
+  Tx Bytes:   67728
+  Offered Load: 0.301648 Mbps
+  Rx Packets:   104
+  Rx Bytes:   60084
+  Throughput: 0.304184 Mbps
+  Mean delay:   0.00806504
+  Mean jitter:   3.06889e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.180s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   213
+  Tx Bytes:   124176
+  Offered Load: 0.588671 Mbps
+  Rx Packets:   195
+  Rx Bytes:   113592
+  Throughput: 0.541694 Mbps
+  Mean delay:   0.00506718
+  Mean jitter:   3.33456e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.183s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   180
+  Tx Bytes:   104772
+  Offered Load: 0.839363 Mbps
+  Rx Packets:   159
+  Rx Bytes:   92424
+  Throughput: 0.743424 Mbps
+  Mean delay:   0.0020673
+  Mean jitter:   3.23076e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.162s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   32
+  Tx Bytes:   17748
+  Offered Load: 0.0974446 Mbps
+  Rx Packets:   25
+  Rx Bytes:   13632
+  Throughput: 0.0756774 Mbps
+  Mean delay:   0.00805906
+  Mean jitter:   3.13e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.229s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   283
+  Tx Bytes:   165336
+  Offered Load: 1.23209 Mbps
+  Rx Packets:   264
+  Rx Bytes:   154164
+  Throughput: 1.15099 Mbps
+  Mean delay:   0.00107032
+  Mean jitter:   3.49956e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.196s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   274
+  Tx Bytes:   160044
+  Offered Load: 0.772907 Mbps
+  Rx Packets:   254
+  Rx Bytes:   148284
+  Throughput: 0.717852 Mbps
+  Mean delay:   0.00207365
+  Mean jitter:   4.01151e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.240s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   52
+  Tx Bytes:   29508
+  Offered Load: 0.174645 Mbps
+  Rx Packets:   44
+  Rx Bytes:   24804
+  Throughput: 0.146799 Mbps
+  Mean delay:   0.00306574
+  Mean jitter:   3.61303e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.512s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   5
+  Tx Bytes:   1872
+  Offered Load: 0.0146241 Mbps
+  Rx Packets:   3
+  Rx Bytes:   696
+  Throughput: 0.00550169 Mbps
+  Mean delay:   0.00601872
+  Mean jitter:   2.16005e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.269s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   180
+  Tx Bytes:   104772
+  Offered Load: 0.466284 Mbps
+  Rx Packets:   167
+  Rx Bytes:   97128
+  Throughput: 0.4342 Mbps
+  Mean delay:   0.00407161
+  Mean jitter:   3.95219e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.245s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   147
+  Tx Bytes:   85368
+  Offered Load: 0.381137 Mbps
+  Rx Packets:   140
+  Rx Bytes:   81252
+  Throughput: 0.362742 Mbps
+  Mean delay:   0.00607426
+  Mean jitter:   4.27568e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.221s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   4
+  Tx Bytes:   1284
+  Offered Load: 0.0102514 Mbps
+  Rx Packets:   2
+  Rx Bytes:   108
+  Throughput: 0.430074 Mbps
+  Mean delay:   0.00100448
+  Mean jitter:   3.2e-07
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.194s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   39
+  Tx Bytes:   21864
+  Offered Load: 0.171243 Mbps
+  Rx Packets:   33
+  Rx Bytes:   18336
+  Throughput: 0.143605 Mbps
+  Mean delay:   0.0100605
+  Mean jitter:   3.085e-05
+Waf: Entering directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/randel/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.176s)
+
+*** Flow monitor statistics ***
+  Tx Packets:   464
+  Tx Bytes:   271764
+  Offered Load: 1.23 Mbps
+  Rx Packets:   437
+  Rx Bytes:   255888
+  Throughput: 1.15815 Mbps
+  Mean delay:   0.00107214
+  Mean jitter:   3.85951e-05
