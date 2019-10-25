@@ -1,16 +1,18 @@
 #!/bin/bash
 
-# Protocolo TCP utilizado 1(New Reno)
-typeTCP=(1)
-# Taxa de erro utilizada
-errorRate=(0.2 0.5)
-# Número de nós presente na topologia de rede manhattan
-#numberNodes=(9 36 64)
-numberNodes=(3 6 8)
-# Taxa de trasmissão in Mbps
-dataRate=(10 100)
+# Protocolo TCP utilizado 1 - New Reno
+typeTCP=( 1 )
 
-NS_LOG=manhathan=info
+# Taxa de erro utilizada
+errorRate=( 0.2 0.5 )
+
+# Número de nós presente na topologia de rede halteres
+numberNodes=( 9 36 64 )
+
+# Taxa de trasmissão em Mbps
+dataRate=( 10 100 )
+
+NS_LOG=halteres=info
 
 mkdir Delay
 
@@ -22,13 +24,12 @@ do
 	do
 	    for rate in "${dataRate[@]}"
 	    do
-	    	echo $tcp, $error, $node, $rate
-		nodesQuantity=$node;			
-		
-		cat log_manhattan-$tcp-$error-$nodesQuantity-$rate.txt  | grep delay | cut -d":" -f2 | cut -d" " -f4 > Delay/Delay_manhattan-$tcp-$error-$nodesQuantity-$rate.txt
+	    	echo $tcp, $error, $node, $rate;
+		nodesQuantity=$node;
+
+		cat log_halteres-$tcp-$error-$nodesQuantity-$rate.txt  | grep delay | cut -d":" -f2 | cut -d" " -f4 > Delay/Delay_halteres-$tcp-$error-$nodesQuantity-$rate.txt
 
 	    done
 	done
     done
 done
-
