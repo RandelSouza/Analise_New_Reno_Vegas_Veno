@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Protocolo TCP utilizado 1(New Reno), 2(Vegas) e 3(Veno)
-typeTCP=(1 2 3)
+typeTCP=( 1 2 3 )
 
 # Taxa de erro utilizada
-errorRate=(0.2 0.5)
+errorRate=( 0.2 0.5 )
 
 # Número de nós presente na topologia de rede halteres
-numberNodes=(9 36 64)
+numberNodes=( 9 36 64 )
 
 # Taxa de trasmissão in Mbps
-dataRate=(10 100)
+dataRate=( 10 100 )
 NS_LOG=halteres=info
 
 for tcp in "${typeTCP[@]}"
