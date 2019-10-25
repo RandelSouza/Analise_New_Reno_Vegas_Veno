@@ -31,7 +31,7 @@ do
 		    ./../../waf --run "ht --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_halteres-$tcp-$error-$nodesQuantity-$rate.txt;
 
 		done
-            mv ../../*.dat halteres-$tcp-$error-$nodesQuantity-$rate;
+                mv ../../*.dat halteres-$tcp-$error-$nodesQuantity-$rate;
 	    done
 	done
     done
