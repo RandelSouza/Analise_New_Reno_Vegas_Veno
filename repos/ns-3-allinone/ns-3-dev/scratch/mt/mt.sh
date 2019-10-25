@@ -7,7 +7,7 @@ typeTCP=( 1 2 3 )
 errorRate=( 0.2 0.5 )
 
 # Número de nós presente na topologia de rede manhattan
-numberNodes=(9 36 64)
+numberNodes=( 9 36 64 )
 
 # Taxa de trasmissão em Mbps
 dataRate=( 10 100 )
@@ -23,15 +23,15 @@ do
 	    for rate in "${dataRate[@]}"
 	    do
 	    	echo $tcp, $error, $node, $rate;
-			nodesQuantity=$node;
-			mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate;
+		nodesQuantity=$node;
+		mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate;
 
-			for k in `seq 30`
+		for k in `seq 30`
 	    	do
-				./../../waf --run "mt --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_manhattan-$tcp-$error-$nodesQuantity-$rate.txt;
-			done
+		    ./../../waf --run "mt --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_manhattan-$tcp-$error-$nodesQuantity-$rate.txt;
+		done
 
-			mv ../../*.dat manhattan-$tcp-$error-$nodesQuantity-$rate;
+		mv ../../*.dat manhattan-$tcp-$error-$nodesQuantity-$rate;
 	    done
 	done
     done
