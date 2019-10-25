@@ -41,13 +41,13 @@ int main (int argc, char *argv[])
   Config::SetDefault ("ns3::OnOffApplication::PacketSize", UintegerValue (1024));
   Config::SetDefault ("ns3::OnOffApplication::DataRate", StringValue ("500kb/s"));
 
-  // Variaveis padrão caso nenhum valor seja passado como augumento pelo terminal (Linha de Comando do inglês Command Line cmd)
+  // Variaveis padrão caso nenhum valor seja passado como argumento pelo terminal (Linha de Comando do inglês Command Line cmd)
   uint32_t    nLeftLeaf = 5;
   uint32_t    nRightLeaf = 5;
   uint32_t    nLeaf = 0; // If non-zero, number of both left and right
   std::string nomeTCP = "" ;  // Nome da versão do TCP utilizada
   float errorRate = 0.2;
-  std::string typeTCP = "1";            
+  std::string typeTCP = "1";
   uint32_t dataRate = 0;
 
 
@@ -57,10 +57,10 @@ int main (int argc, char *argv[])
   CommandLine cmd;
   cmd.AddValue ("nLeftLeaf", "Number of left side leaf nodes", nLeftLeaf);
   cmd.AddValue ("nRightLeaf","Number of right side leaf nodes", nRightLeaf);
-  cmd.AddValue ("nLeaf",     "Number of left and right side leaf nodes", nLeaf); 
+  cmd.AddValue ("nLeaf",     "Number of left and right side leaf nodes", nLeaf);
   cmd.AddValue ("typeTCP", "Versão do TCP, podendo ser NewReno será representado pelo valor 1, Vegas será representado pelo valor 2, Veno será representado pelo valor 3", typeTCP);
-  cmd.AddValue ("errorRate", "taxa de erro na simulação ex.: 0.001", errorRate);                                                         
-  cmd.AddValue ("dataRate", "Taxa de trasmissão", dataRate);    
+  cmd.AddValue ("errorRate", "taxa de erro na simulação ex.: 0.001", errorRate);
+  cmd.AddValue ("dataRate", "Taxa de trasmissão", dataRate);
   cmd.Parse (argc,argv);
 
 
@@ -68,18 +68,18 @@ int main (int argc, char *argv[])
   Config::SetDefault ("ns3::RateErrorModel::ErrorUnit", StringValue ("ERROR_UNIT_PACKET"));
   NS_LOG_INFO (errorRate);
 
-  // Configurando a versão do tcp utilizado    
-  if(typeTCP.compare("1") == 0){                      
+  // Configurando a versão do tcp utilizado
+  if(typeTCP.compare("1") == 0){
       NS_LOG_INFO ("O tipo é " + typeTCP + " New Reno");
       nomeTCP = "New Reno";
       Config::SetDefault ("ns3::TcpL4Protocol::SocketType", TypeIdValue (TcpNewReno::GetTypeId ()));
 
-  }else if(typeTCP.compare("2") == 0){        
+  }else if(typeTCP.compare("2") == 0){
       NS_LOG_INFO ("O tipo é " + typeTCP + " Vegas");
       nomeTCP = "Vegas";
       Config::SetDefault ("ns3::TcpL4Protocol::SocketType", TypeIdValue (TcpVegas::GetTypeId ()));
 
-  }else if(typeTCP.compare("3") == 0){        
+  }else if(typeTCP.compare("3") == 0){
       NS_LOG_INFO ("O tipo é " + typeTCP+ " Veno");
       nomeTCP = "Veno";
       Config::SetDefault ("ns3::TcpL4Protocol::SocketType", TypeIdValue (TcpVeno::GetTypeId ()));
@@ -141,11 +141,11 @@ int main (int argc, char *argv[])
   Ipv4GlobalRoutingHelper::PopulateRoutingTables ();
 
 
-  pointToPointRouter.EnablePcapAll ("halteres");    
+  pointToPointRouter.EnablePcapAll ("halteres");
 
   AsciiTraceHelper ascii;
 
-  pointToPointRouter.EnableAsciiAll (ascii.CreateFileStream ("halteres-"+typeTCP+"-"+nomeTCP+"-"+std::to_string(errorRate)+"-"+std::to_string(dataRate)+".tr"));    
+  pointToPointRouter.EnableAsciiAll (ascii.CreateFileStream ("halteres-"+typeTCP+"-"+nomeTCP+"-"+std::to_string(errorRate)+"-"+std::to_string(dataRate)+".tr"));
   NS_LOG_INFO ("Rodando a simulação.");
 
 
