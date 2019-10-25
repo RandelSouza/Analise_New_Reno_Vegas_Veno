@@ -18,13 +18,12 @@ for tcp in "${typeTCP[@]}"
 do
     for error in "${errorRate[@]}"
     do
-    	for node in "${numberNodes[@]}"
+        for node in "${numberNodes[@]}"
     	do
-
     	    for rate in "${dataRate[@]}"
     	    do
-    	    echo $tcp, $error, $node, $rate
-            nodesQuantity=$node;
+    	        echo $tcp, $error, $node, $rate
+                nodesQuantity=$node;
 
         	./../../waf --run "manhattan --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate"";
 
@@ -34,7 +33,7 @@ do
         	mv ../../*.pcap manhattan-$tcp-$error-$nodesQuantity-$rate;
         	mv ../../*.tr   manhattan-$tcp-$error-$nodesQuantity-$rate-tr;
         	mv ../../*.xml  manhattan-$tcp-$error-$nodesQuantity-$rate-xml;
-        	done
+            done
     	done
     done
 done
