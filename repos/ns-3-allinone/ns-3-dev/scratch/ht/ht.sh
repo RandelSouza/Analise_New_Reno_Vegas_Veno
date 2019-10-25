@@ -26,7 +26,7 @@ do
 		nodesQuantity=$node;
 		mkdir -p halteres-$tcp-$error-$nodesQuantity-$rate;
 
-		for k in `seq 35`
+		for k in `seq 30`
 	    	do
 		    ./../../waf --run "ht --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_halteres-$tcp-$error-$nodesQuantity-$rate.txt;
 
