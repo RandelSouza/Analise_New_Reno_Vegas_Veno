@@ -23,18 +23,17 @@ do
 
     	    for rate in "${dataRate[@]}"
     	    do
-    	        echo $tcp, $error, $node, $rate
-        		nodesQuantity=$node;
+    	    echo $tcp, $error, $node, $rate
+            nodesQuantity=$node;
 
-        		./../../waf --run "manhattan --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate"";
+        	./../../waf --run "manhattan --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate"";
 
-        		mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate;
-        		mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate-xml;
-        		mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate-tr;
-
-        		mv ../../*.pcap manhattan-$tcp-$error-$nodesQuantity-$rate;
-        		mv ../../*.tr   manhattan-$tcp-$error-$nodesQuantity-$rate-tr;
-        		mv ../../*.xml  manhattan-$tcp-$error-$nodesQuantity-$rate-xml;
+        	mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate;
+        	mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate-xml;
+        	mkdir -p manhattan-$tcp-$error-$nodesQuantity-$rate-tr;
+        	mv ../../*.pcap manhattan-$tcp-$error-$nodesQuantity-$rate;
+        	mv ../../*.tr   manhattan-$tcp-$error-$nodesQuantity-$rate-tr;
+        	mv ../../*.xml  manhattan-$tcp-$error-$nodesQuantity-$rate-xml;
         	done
     	done
     done
