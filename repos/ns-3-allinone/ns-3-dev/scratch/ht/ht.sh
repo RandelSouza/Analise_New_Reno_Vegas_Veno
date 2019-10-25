@@ -12,7 +12,7 @@ numberNodes=( 9 36 64 )
 # Taxa de trasmissão em Mbps
 dataRate=( 10 100 )
 
-NS_LOG=manhathan=info
+NS_LOG=halteres=info
 
 for tcp in "${typeTCP[@]}"
 do
@@ -28,7 +28,7 @@ do
 
 		for k in `seq 35`
 	    	do
-		    ./../../waf --run "ht --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_manhattan-$tcp-$error-$nodesQuantity-$rate.txt;
+		    ./../../waf --run "ht --typeTCP="$tcp" --errorRate="$error" --xSize="$node" --ySize="$node" --dataRate="$rate" --n="$((($RANDOM %10) + 1))" --m="$((($RANDOM %10) + 1))"" >> log_halteres-$tcp-$error-$nodesQuantity-$rate.txt;
          	    mv ../../*.dat halteres-$tcp-$error-$nodesQuantity-$rate;
 		done
 	    done
