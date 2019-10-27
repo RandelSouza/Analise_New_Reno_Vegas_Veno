@@ -8,4 +8,7 @@
 * 30 Gigabytes de ROM
 * 1 Gigabyte de RAM
 
+# Instalação do Simulador NS-3
+* Todo o tutorial para conhecer, baixar, testar e várias outras informações a respeito do NS-3 podem-ser encontradas no seguinte endereço: https://www.nsnam.org/docs/release/3.30/tutorial-pt-br/html/introduction.html. 
+
 
