@@ -1,4 +1,6 @@
-			<textarea id="text">sudo apt-get install python-pygraphviz python-kiwi python-pygoocanvas libgoocanvas-dev ipython -y ;
+#!/bin/bash
+
+sudo apt-get install python-pygraphviz python-kiwi python-pygoocanvas libgoocanvas-dev ipython -y ;
 sudo apt-get install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev -y  ;
 sudo apt-get install autoconf cvs bzr unrar -y ;
 sudo apt-get install gdb valgrind -y ;
