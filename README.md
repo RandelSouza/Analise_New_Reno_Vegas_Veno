@@ -13,6 +13,8 @@
 
 * O primeiro passo consistiu na instalação das dependências necesárias para que o NS-3 funcione de maneira correta. A wiki https://www.nsnam.org/wiki/Installation traz informações das dependências necessárias e as opcionais dependendo da finalidade do projeto.
 Através da leitura desta wiki foi criado um script para automatizar a instalação das dependências que são pre-requisito para a instalação do NS-3 e também de outras dependências complementares que foram consideradas importantes.
+
 ![code image](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/ns3dependenciescode.png)
+
 
 
