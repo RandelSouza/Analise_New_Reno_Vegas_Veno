@@ -1,8 +1,22 @@
 # Análise de desempenho dos protocolos TCP New Reno, TCP Vegas e TCP Veno.
+
 ![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf1.jpg-1.png)
+
 * Trabalho da disciplina de **Análise de Desempenho**, da **Universidade Federal do Ceará (UFC) Campus Quixadá**.
 * Ministrada pelo **Prof. Dr. Arthur de Castro Callado**.
 * Equipe: **Abimael Silas Barros** e **Randel Souza Almeida**.
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf2.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf3.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf4.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf5.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf6.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf7.jpg-1.png)
 
 # Configurações da Máquina Virtual
 
