@@ -204,3 +204,10 @@ PASS: TestSuite random-number-generators
 ```
 Hello Simulator
 ```
+
+# Organizando os scripts para a Coleta dos dados
+* Considerando que o clone deste projeto já tenha sido feito deste o momento da instalação das dependências, o passo subsequente consiste em fazer uma cópia dos diretórios ht/ e mt/ deste projeto, para a pasta scratch do NS-3 **~/repos/ns-3-allinone/ns-3-dev/scratch/**. Considerando que o diretório corrente seja o deste trabalho.
+```
+sudo cp -R ht/ ~/repos/ns-3-allinone/ns-3-dev/scratch/
+sudo cp -R mt/ ~/repos/ns-3-allinone/ns-3-dev/scratch/
+```
