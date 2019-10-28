@@ -45,7 +45,21 @@ build.py*  constants.py  dist.py*  download.py*  README  util.py
 1. `cd ns-3-allinone/`
 2. `sudo ./download.py -n ns-3-dev`
 
+* O resultado da execução do comando anterior deve ter a seguinte saída:
 
+```
+    #
+    # Get NS-3
+    #
 
+Cloning ns-3 branch
+ =>  hg clone http://code.nsnam.org/ns-3-dev ns-3-dev
+requesting all changes
+adding changesets
+adding manifests
+adding file changes
+added 4634 changesets with 16500 changes to 1762 files
+870 files updated, 0 files merged, 0 files removed, 0 files unresolved
+```
 
 
