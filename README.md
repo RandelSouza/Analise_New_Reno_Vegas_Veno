@@ -227,7 +227,18 @@ cd ~/repos/ns-3-allinone/ns-3-dev/
 sudo ./waf
 ```
 # Executando os scripts
-
+* Dentro de cada pasta que foi anteriormente cópiada existem dois arquivos um .sh e outro .cc. A seguir os comandos para executar cada script, vale ressaltar que ht refere-se aos cenários com a topologia halteres e mt correspondem aos cenários com a topologia manhattan.
+---
+```
+cd scratch/ht/
+sudo ./ht.sh
+```
+---
+```
+cd scratch/mt/
+sudo ./mt.sh
+```
+---
 
 # Gerando os Gráficos
 
