@@ -12,10 +12,9 @@
 
 # Instalação do Simulador NS-3
 
-* Todo o tutorial para conhecer, baixar, testar e várias outras informações a respeito do NS-3 podem-ser encontradas no seguinte endereço: https://www.nsnam.org/docs/release/3.30/tutorial-pt-br/html/introduction.html. A seguir são descritos os passos para instalação do NS-3 para o trabalho em questão, caso haja alguma dúvida consulte o *link* anteriormente citado para maiores informações.
+* <p align="justify">Todo o tutorial para conhecer, baixar, testar e várias outras informações a respeito do NS-3 podem-ser encontradas no seguinte endereço: https://www.nsnam.org/docs/release/3.30/tutorial-pt-br/html/introduction.html. A seguir são descritos os passos para instalação do NS-3 para o trabalho em questão, caso haja alguma dúvida consulte o *link* anteriormente citado para maiores informações.</p>
 
-* O primeiro passo consistiu na instalação das dependências necessárias para que o NS-3 funcione de maneira correta. A *wiki* https://www.nsnam.org/wiki/Installation traz informações das dependências necessárias e as opcionais dependendo da finalidade do projeto.
-Através da leitura desta *wiki* foi criado um *script* para automatizar a instalação das dependências que são pré-requisito para a instalação do NS-3 e também de outras dependências complementares que foram consideradas importantes. A figura a seguir mostra o *script* criado, tal *script* foi denominado de ns3_dependencies.sh.
+*<p align="justify"> O primeiro passo consistiu na instalação das dependências necessárias para que o NS-3 funcione de maneira correta. A *wiki* https://www.nsnam.org/wiki/Installation traz informações das dependências necessárias e as opcionais dependendo da finalidade do projeto. Através da leitura desta *wiki* foi criado um *script* para automatizar a instalação das dependências que são pré-requisito para a instalação do NS-3 e também de outras dependências complementares que foram consideradas importantes. A figura a seguir mostra o *script* criado, tal *script* foi denominado de ns3_dependencies.sh. </p>
 
 ![code image](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/ns3dependenciescode.png)
 
@@ -23,10 +22,9 @@ Através da leitura desta *wiki* foi criado um *script* para automatizar a insta
 
 ![execute script](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/ns3dependencies.png)
 
-* Após a instalação de todas as dependências, seguiu-se para a instalação do NS-3. O tutorial presente no site do *nsnam* informa que é uma boa prática criar-se um diretório denominado **repos** no diretório *home*.</br> Para isso empregou-se os seguintes comandos:</br> 1. `cd /home/`</br> 2. `sudo mkdir repos`</br> 3. `cd repos`
+*<p align="justify"> Após a instalação de todas as dependências, seguiu-se para a instalação do NS-3. O tutorial presente no site do *nsnam* informa que é uma boa prática criar-se um diretório denominado **repos** no diretório *home*.</br> Para isso empregou-se os seguintes comandos:</p></br> 1. `cd /home/`</br> 2. `sudo mkdir repos`</br> 3. `cd repos`
 
-* Estando dentro do diretório *repos* será obtido uma cópia do ns-3-allinone através da execução do seguinte comando:</br>
-`sudo hg clone http://code.nsnam.org/ns-3-allinone`. A saída da execução do comando hg será algo do tipo: 
+*<p align="justify"> Estando dentro do diretório *repos* será obtido uma cópia do ns-3-allinone através da execução do seguinte comando:</p></br> `sudo hg clone http://code.nsnam.org/ns-3-allinone`. A saída da execução do comando hg será algo do tipo: 
 ```
 destination directory: ns-3-allinone
 requesting all changes
