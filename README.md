@@ -45,7 +45,7 @@ build.py*  constants.py  dist.py*  download.py*  README  util.py
 1. `cd ns-3-allinone/`
 2. `sudo ./download.py -n ns-3-dev`
 
-* O resultado da execução do comando anterior deve ter a seguinte saída:
+* O resultado da execução do comando anterior deve ter a seguinte saída (pode ser que o resultado seja diferente dependendo da verão escolhida):
 
 ```
     #
@@ -62,4 +62,24 @@ added 4634 changesets with 16500 changes to 1762 files
 870 files updated, 0 files merged, 0 files removed, 0 files unresolved
 ```
 
+* Depois que o script download.py tiver completado sua tarefa, veremos vários diretórios novos dentro de ~/repos/ns-3-allinone:
+`cd ns-3-allinone`
+`ls`
+```
+build.py*     constants.pyc  download.py*  nsc/        README      util.pyc
+constants.py  dist.py*       ns-3-dev/     pybindgen/  util.py
+```
+* Por fim, no diretório ns-3-dev que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo:
+`cd  ns-3-dev`
+`ls`
+```
+AUTHORS       doc       ns3            scratch   testpy.supp  VERSION   waf-tools
+bindings      examples  README         src       utils        waf*      wscript
+CHANGES.html  LICENSE   RELEASE_NOTES  test.py*  utils.py     waf.bat*  wutils.py
+```
 
+* Construindo o Waf.  O waf é utilizado para configurar e construir o projeto do ns-3. Não é estritamente necessário neste ponto, mas será valioso quando se forem necessárias alterações nas configurações do projeto. Provavelmente a mudança mais útil que será feita futuramente é a construção de uma versão do código otimizado. Por padrão, o projeto é construído com a opção de depuração (debug), para verificação de erros. Então, para construir um projeto otimizado, deve-se executar o seguinte comando (ainda com suporte a testes e exemplos):
+
+```
+./waf -d optimized --enable-examples --enable-tests configure
+```
