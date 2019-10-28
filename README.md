@@ -36,7 +36,7 @@ adding file changes
 added 31 changesets with 45 changes to 7 files
 7 files updated, 0 files merged, 0 files removed, 0 files unresolved
 ```
-* Ao termino da clonagem existirá um diretório chamado ns-3-allinone dentro do diretório ~/repos. Ao utilizar o comando `ls` para verificar o conteúdo do diretório, o resultado deve ser algo como:
+* Ao termino da clonagem existirá um diretório chamado ns-3-allinone dentro do diretório ~/repos. Ao utilizar o comando `ls ns-3-allinone` para verificar o conteúdo do diretório, o resultado deve ser algo como:
 ```
 build.py*  constants.py  dist.py*  download.py*  README  util.py
 ```
