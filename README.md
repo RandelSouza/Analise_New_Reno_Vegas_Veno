@@ -273,6 +273,8 @@ sudo ./tcpVeno/gerarDadosThrougput.sh
 ---
 
 # Gerando os Gráficos
+* Os scripts para geração dos gráficos seguiram o seguinte modelo da figura abaixo, modificando a pasta gerada para cada topologia e métrica. Od códigos dos demais gráficos não estão presentes pois foram criados sem muita dinamicidade, e portanto quando estiver mais bem escrito eles serão colocados neste repositorio. No entando pode-se utilizar o modelo abaixo modificando conforme a necessidade.
+
 ```python
 
 from glob import glob
