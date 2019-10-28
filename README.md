@@ -79,3 +79,64 @@ CHANGES.html  LICENSE   RELEASE_NOTES  test.py*  utils.py     waf.bat*  wutils.p
 ```
 ./waf -d optimized --enable-examples --enable-tests configure
 ```
+* Isto executa o Waf fora do diretório local (o que é bem conveniente). Como o sistema em construção verifica várias dependências, deverá aparecer uma saída similar com a que segue:
+```
+Checking for program g++                 : ok /usr/bin/g++
+Checking for program cpp                 : ok /usr/bin/cpp
+Checking for program ar                  : ok /usr/bin/ar
+Checking for program ranlib              : ok /usr/bin/ranlib
+Checking for g++                         : ok
+Checking for program pkg-config          : ok /usr/bin/pkg-config
+Checking for -Wno-error=deprecated-declarations support : yes
+Checking for -Wl,--soname=foo support                   : yes
+Checking for header stdlib.h                            : ok
+Checking for header signal.h                            : ok
+Checking for header pthread.h                           : ok
+Checking for high precision time implementation         : 128-bit integer
+Checking for header stdint.h                            : ok
+Checking for header inttypes.h                          : ok
+Checking for header sys/inttypes.h                      : not found
+Checking for library rt                                 : ok
+Checking for header netpacket/packet.h                  : ok
+Checking for pkg-config flags for GSL                   : ok
+Checking for header linux/if_tun.h                      : ok
+Checking for pkg-config flags for GTK_CONFIG_STORE      : ok
+Checking for pkg-config flags for LIBXML2               : ok
+Checking for library sqlite3                            : ok
+Checking for NSC location                               : ok ../nsc (guessed)
+Checking for library dl                                 : ok
+Checking for NSC supported architecture x86_64          : ok
+Checking for program python                             : ok /usr/bin/python
+Checking for Python version >= 2.3                      : ok 2.5.2
+Checking for library python2.5                          : ok
+Checking for program python2.5-config                   : ok /usr/bin/python2.5-config
+Checking for header Python.h                            : ok
+Checking for -fvisibility=hidden support                : yes
+Checking for pybindgen location                         : ok ../pybindgen (guessed)
+Checking for Python module pybindgen                    : ok
+Checking for pybindgen version                          : ok 0.10.0.640
+Checking for Python module pygccxml                     : ok
+Checking for pygccxml version                           : ok 0.9.5
+Checking for program gccxml                             : ok /usr/local/bin/gccxml
+Checking for gccxml version                             : ok 0.9.0
+Checking for program sudo                               : ok /usr/bin/sudo
+Checking for program hg                                 : ok /usr/bin/hg
+Checking for program valgrind                           : ok /usr/bin/valgrind
+---- Summary of optional NS-3 features:
+Threading Primitives          : enabled
+Real Time Simulator           : enabled
+Emulated Net Device           : enabled
+GNU Scientific Library (GSL)  : enabled
+Tap Bridge                    : enabled
+GtkConfigStore                : enabled
+XmlIo                         : enabled
+SQlite stats data output      : enabled
+Network Simulation Cradle     : enabled
+Python Bindings               : enabled
+Python API Scanning Support   : enabled
+Use sudo to set suid bit      : not enabled (option --enable-sudo not selected)
+Build tests                   : enabled
+Build examples                : enabled
+Static build                  : not enabled (option --enable-static not selected)
+'configure' finished successfully (2.870s)
+```
