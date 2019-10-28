@@ -292,17 +292,17 @@ def calc(df):
 
 lista = []
 
-Th = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-3-10.txt")
-Th1 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-3-10.txt")
-Th6 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-3-10.txt")
+Th = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-9-10.txt")
+Th1 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-9-10.txt")
+Th6 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-9-10.txt")
 
-Th2 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-6-10.txt")
-Th3 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-6-10.txt")
-Th7 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-6-10.txt")
+Th2 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-36-10.txt")
+Th3 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-36-10.txt")
+Th7 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-36-10.txt")
 
-Th4 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-8-10.txt")
-Th5 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-8-10.txt")
-Th8 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-8-10.txt")
+Th4 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-64-10.txt")
+Th5 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-64-10.txt")
+Th8 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-64-10.txt")
 
 lista.append(pd.read_csv(Th[0], header=None))
 lista.append(pd.read_csv(Th1[0], header=None))
