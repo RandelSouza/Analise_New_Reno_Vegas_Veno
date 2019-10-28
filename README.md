@@ -213,7 +213,7 @@ sudo cp -R mt/ ~/repos/ns-3-allinone/ns-3-dev/scratch/
 ```
 * Com os scrips devidamente copiados para a pasta scratch, construiremos novamente a versão do NS-3.
 ```
-cd /repos/ns-3-allinone/ns-3-dev/
+cd ~/repos/ns-3-allinone/ns-3-dev/
 sudo ./waf
 ```
 # Executando os scripts
