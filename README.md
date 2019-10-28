@@ -144,7 +144,58 @@ Static build                  : not enabled (option --enable-static not selected
 ```
 ./waf -d debug --enable-examples --enable-tests configure
 ```
-* onto o sistema está configurado, agora podemos construir nossa versão digitando:
+* Com o sistema configurado, agora podemos construir nossa versão digitando:
 ```
 ./waf
 ```
+* Para executar os testes de unidade do ns-3, basta chamar o arquivo ./test.py da seguinte forma:
+```
+./test.py -c core
+```
+* Estes testes são executados em paralelo pelo Waf. No final, uma mensagem como a que segue deve aparecer.
+```
+47 of 47 tests passed (47 passed, 0 failed, 0 crashed, 0 valgrind errors)
+Esta é uma mensagem importante.
+```
+* Também haverá saídas da execução do teste e estas geralmente são algo como:
+```
+Waf: Entering directory `/home/craigdo/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/craigdo/repos/ns-3-allinone/ns-3-dev/build'
+'build' finished successfully (1.799s)
+
+Modules built:
+aodv                      applications              bridge
+click                     config-store              core
+csma                      csma-layout               dsdv
+emu                       energy                    flow-monitor
+internet                  lte                       mesh
+mobility                  mpi                       netanim
+network                   nix-vector-routing        ns3tcp
+ns3wifi                   olsr                      openflow
+point-to-point            point-to-point-layout     propagation
+spectrum                  stats                     tap-bridge
+template                  test                      tools
+topology-read             uan                       virtual-net-device
+visualizer                wifi                      wimax
+
+PASS: TestSuite ns3-wifi-interference
+PASS: TestSuite histogram
+PASS: TestSuite sample
+PASS: TestSuite ipv4-address-helper
+PASS: TestSuite devices-wifi
+PASS: TestSuite propagation-loss-model
+
+...
+
+PASS: TestSuite attributes
+PASS: TestSuite config
+PASS: TestSuite global-value
+PASS: TestSuite command-line
+PASS: TestSuite basic-random-number
+PASS: TestSuite object
+PASS: TestSuite random-number-generators
+95 of 95 tests passed (95 passed, 0 failed, 0 crashed, 0 valgrind errors)
+```
+* Este comando é normalmente executado pelos usuários para verificar se o ns-3 foi construído corretamente.
+
+
