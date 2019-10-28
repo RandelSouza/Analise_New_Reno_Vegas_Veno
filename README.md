@@ -26,7 +26,16 @@ Através da leitura desta *wiki* foi criado um *script* para automatizar a insta
 * Após a instalação de todas as dependências, seguiu-se para a instalação do NS-3. O tutorial presente no site do *nsnam* informa que é uma boa prática criar-se um diretório denominado **repos** no diretório *home*.</br> Para isso empregou-se os seguintes comandos:</br> 1. `cd /home/`</br> 2. `sudo mkdir repos`</br> 3. `cd repos`
 
 * Estando dentro do diretório *repos* será obtido uma cópia do ns-3-allinone através da execução do seguinte comando:</br>
-`sudo hg clone http://code.nsnam.org/ns-3-allinone`.
+`sudo hg clone http://code.nsnam.org/ns-3-allinone`. A saída da execução do comando hg será algo do tipo: 
+```
+destination directory: ns-3-allinone
+requesting all changes
+adding changesets
+adding manifests
+adding file changes
+added 31 changesets with 45 changes to 7 files
+7 files updated, 0 files merged, 0 files removed, 0 files unresolved
+```
 
 
 
