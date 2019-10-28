@@ -70,7 +70,7 @@ build.py*     constants.pyc  download.py*  nsc/        README      util.pyc
 constants.py  dist.py*       ns-3-dev/     pybindgen/  util.py
 ```
 * Por fim, no diretório ns-3-dev que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo:</br>
-`cd  ns-3-dev`
+`cd  ns-3-dev`</br>
 `ls`
 ```
 AUTHORS       doc       ns3            scratch   testpy.supp  VERSION   waf-tools
