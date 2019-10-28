@@ -62,16 +62,12 @@ added 4634 changesets with 16500 changes to 1762 files
 870 files updated, 0 files merged, 0 files removed, 0 files unresolved
 ```
 
-* Depois que o script download.py tiver completado sua tarefa, veremos vários diretórios novos dentro de ~/repos/ns-3-allinone:
-`cd ns-3-allinone`
-`ls`
+* Depois que o script download.py tiver completado sua tarefa, veremos vários diretórios novos dentro de ~/repos/ns-3-allinone para entrar executa-se `cd ns-3-allinone` e para listar os diretóirios/arquivos utiliza-se o `ls`, os diretórios/arquivos são vistos a seguir:
 ```
 build.py*     constants.pyc  download.py*  nsc/        README      util.pyc
 constants.py  dist.py*       ns-3-dev/     pybindgen/  util.py
 ```
-* Por fim, no diretório ns-3-dev que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo:</br>
-`cd  ns-3-dev`</br>
-`ls`
+* Por fim, no diretório ns-3-dev (para entrar executa-se `cd  ns-3-dev`) que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo após o comando `ls`:
 ```
 AUTHORS       doc       ns3            scratch   testpy.supp  VERSION   waf-tools
 bindings      examples  README         src       utils        waf*      wscript
