@@ -18,6 +18,8 @@
 
 ![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf7.jpg-1.png)
 
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf8.jpg-1.png)
+
 # Configurações da Máquina Virtual
 
 * Sistema Operacional Ubuntu 16.04 LTS
@@ -234,3 +236,38 @@ sudo ./waf
 
 
 # Gerando os Gráficos
+
+# Gráficos gerados
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf9.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf10.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf11.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf12.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf13.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf14.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf15.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf16.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf17.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf18.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf19.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf20.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf21.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf22.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf23.jpg-1.png)
+
+![text](https://github.com/RandelSouza/Analise_New_Reno_Vegas_Veno/blob/master/img/analisetcppdf24.jpg-1.png)
+
