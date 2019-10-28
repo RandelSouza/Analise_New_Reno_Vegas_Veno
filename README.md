@@ -227,7 +227,7 @@ cd ~/repos/ns-3-allinone/ns-3-dev/
 sudo ./waf
 ```
 # Executando os scripts
-* Dentro de cada pasta que foi anteriormente cópiada existem dois arquivos um .sh e outro .cc. A seguir os comandos para executar cada script, vale ressaltar que ht refere-se aos cenários com a topologia halteres e mt correspondem aos cenários com a topologia manhattan.
+* Dentro de cada pasta que foi anteriormente cópiada existem dois arquivos um .sh e outro .cc. Vale ressaltar que ht refere-se aos cenários com a topologia halteres e mt correspondem aos cenários com a topologia manhattan. Como são muitos cenários a finalização de cada script poderá demorar. Os comandos para execução de cada script são vistos a seguir. 
 ---
 ```
 cd scratch/ht/
@@ -237,6 +237,38 @@ sudo ./ht.sh
 ```
 cd scratch/mt/
 sudo ./mt.sh
+```
+---
+
+* Após a finalização de todos os scripts de cada cenário, o passo seguinte será filtrar os dados relevantes para as métricas de interrese que são variação do atraso e utilização do canal.
+
+---
+```
+cd scratch/ht/
+
+sudo ./tcpNewReno/gerarDadosJitter.sh
+sudo ./tcpNewReno/gerarDadosThrougput.sh
+
+sudo ./tcpVegas/gerarDadosJitter.sh
+sudo ./tcpVegas/gerarDadosThrougput.sh
+
+sudo ./tcpVeno/gerarDadosJitter.sh
+sudo ./tcpVeno/gerarDadosThrougput.sh
+
+```
+---
+```
+cd scratch/mt/
+
+sudo ./tcpNewReno/gerarDadosJitter.sh
+sudo ./tcpNewReno/gerarDadosThrougput.sh
+
+sudo ./tcpVegas/gerarDadosJitter.sh
+sudo ./tcpVegas/gerarDadosThrougput.sh
+
+sudo ./tcpVeno/gerarDadosJitter.sh
+sudo ./tcpVeno/gerarDadosThrougput.sh
+
 ```
 ---
 
