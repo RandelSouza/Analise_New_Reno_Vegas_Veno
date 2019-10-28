@@ -273,6 +273,77 @@ sudo ./tcpVeno/gerarDadosThrougput.sh
 ---
 
 # Gerando os Gráficos
+```python
+
+from glob import glob
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+import numpy as np
+
+def calc(df):
+    mean = df[0].mean()
+    std = df[0].std()
+    margemdeerro = 1.96 * (std / np.sqrt(len(df[0]))) 
+    return mean, margemdeerro
+
+
+lista = []
+
+Th = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-3-10.txt")
+Th1 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-3-10.txt")
+Th6 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-3-10.txt")
+
+Th2 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-6-10.txt")
+Th3 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-6-10.txt")
+Th7 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-6-10.txt")
+
+Th4 = glob("~/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpNewReno/Jitter/Jitter_manhattan-1-0.2-8-10.txt")
+Th5 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVegas/Jitter/Jitter_manhattan-2-0.2-8-10.txt")
+Th8 = glob("~/randel/repos/ns-3-allinone/ns-3-dev/scratch/ht/tcpVeno/Jitter/Jitter_manhattan-3-0.2-8-10.txt")
+
+lista.append(pd.read_csv(Th[0], header=None))
+lista.append(pd.read_csv(Th1[0], header=None))
+lista.append(pd.read_csv(Th6[0], header=None))
+
+lista.append(pd.read_csv(Th2[0], header=None))
+lista.append(pd.read_csv(Th3[0], header=None))
+lista.append(pd.read_csv(Th7[0], header=None))
+
+lista.append(pd.read_csv(Th4[0], header=None))
+lista.append(pd.read_csv(Th5[0], header=None))
+lista.append(pd.read_csv(Th8[0], header=None))
+
+lista2 = []
+for i in lista:
+    lista2.append(calc(i))
+
+print lista2
+
+x = [2,12,21]
+labels=['9','36', '64']
+
+plt.errorbar(1,lista2[0][0], yerr=lista2[0][1], linestyle='', capsize=6,elinewidth="1", marker='o',fmt='o', label="TCP New Reno", color='k' )
+plt.errorbar(2,lista2[1][0], yerr=lista2[1][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o', label="TCP Vegas", color='r')
+plt.errorbar(3,lista2[2][0], yerr=lista2[2][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',label="TCP Veno", color='b')
+
+plt.errorbar(11,lista2[3][0], yerr=lista2[3][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='k')
+plt.errorbar(12,lista2[4][0], yerr=lista2[4][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='r')
+plt.errorbar(13,lista2[5][0], yerr=lista2[5][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='b')
+
+plt.errorbar(20,lista2[6][0], yerr=lista2[6][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='k')
+plt.errorbar(21,lista2[7][0], yerr=lista2[7][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='r')
+plt.errorbar(22,lista2[8][0], yerr=lista2[8][1], linestyle='',capsize=6,elinewidth="1",marker='o', fmt='o',color='b')
+
+plt.xticks(x,labels)
+plt.xlabel('Numero de maquinas')
+plt.ylabel('Jitter (Variacao do atraso)\n')
+plt.legend(loc='best')
+
+plt.title("Topologia Halteres com taxa de perda de 0.2,\n tendo 10Mbps de capacidade do canal\n e utilizando trafego de aplicacao FTP(File Transfer Protocol) e CBR(Constant bit rate)")
+plt.savefig("/home/randel/manhattan01.png")
+plt.show()
+```
 
 # Gráficos gerados
 
