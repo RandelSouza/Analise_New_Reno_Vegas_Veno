@@ -40,8 +40,10 @@ added 31 changesets with 45 changes to 7 files
 ```
 build.py*  constants.py  dist.py*  download.py*  README  util.py
 ```
+* Prosseguindo com o processo de instalação, foram baixados alguns scripts em Python. O próximo passo será usar estes scripts para baixar e construir a distribuição ns-3 de sua escolha. Neste trabalho utilizaremos a versão ns-3-dev que é a padrão, mas poderia ser utilizada qualquer outra release disponível no site http://code.nsnam.org/.
 
-
+1. `cd ns-3-allinone/`
+2. `sudo ./download.py -n ns-3-dev`
 
 
 
