@@ -198,4 +198,11 @@ PASS: TestSuite random-number-generators
 ```
 * Este comando é normalmente executado pelos usuários para verificar se o ns-3 foi construído corretamente.
 
-
+* Os códigos normalmente são executados sob o controle do Waf. Isto assegura que os caminhos das bibliotecas compartilhadas estejam corretas e que estarão disponíveis em tempo de execução. Para executar um programa, basta usar a opção --run no Waf. Para executar um equivalente ao “Olá mundo” (Hello world) no ns-3, utilizamos o comando:
+```
+./waf --run hello-simulator
+```
+* O Waf primeiro verifica se o programa foi construído corretamente e se necessário, o constrói. Então executa o programa, que fornece a seguinte saída:
+```
+Hello Simulator
+```
