@@ -43,7 +43,7 @@ build.py*  constants.py  dist.py*  download.py*  README  util.py
 1. `cd ns-3-allinone/`
 2. `sudo ./download.py -n ns-3-dev`
 
-* O resultado da execução do comando anterior deve ter a seguinte saída (pode ser que o resultado seja diferente dependendo da verão escolhida):
+* O resultado da execução do comando anterior deve ter a seguinte saída (pode ser que o resultado seja diferente dependendo da versão escolhida):
 
 ```
     #
