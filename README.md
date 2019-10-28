@@ -140,3 +140,11 @@ Build examples                : enabled
 Static build                  : not enabled (option --enable-static not selected)
 'configure' finished successfully (2.870s)
 ```
+* Vamos configurar uma construção do ns-3 com suporte a depuração, bem como, vamos incluir exemplos e testes. Para isto devemos executar:
+```
+./waf -d debug --enable-examples --enable-tests configure
+```
+* onto o sistema está configurado, agora podemos construir nossa versão digitando:
+```
+./waf
+```
