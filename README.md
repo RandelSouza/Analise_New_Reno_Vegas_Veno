@@ -69,7 +69,7 @@ added 4634 changesets with 16500 changes to 1762 files
 build.py*     constants.pyc  download.py*  nsc/        README      util.pyc
 constants.py  dist.py*       ns-3-dev/     pybindgen/  util.py
 ```
-* Por fim, no diretório ns-3-dev que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo:
+* Por fim, no diretório ns-3-dev que está dentro do diretório ~/repos/ns-3-allinone deve existir, depois dos passos anteriores, o seguinte conteúdo:</br>
 `cd  ns-3-dev`
 `ls`
 ```
